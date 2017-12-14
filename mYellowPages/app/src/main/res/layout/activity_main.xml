@@ -109,7 +109,7 @@
                 android:layout_alignParentBottom="true"
                 android:paddingBottom="5dp"
                 android:paddingTop="5dp"
-                android:background="#90000000">
+                android:background="#000000">
 
                 <ImageView
                     android:layout_width="0dp"
@@ -239,7 +239,7 @@
                     android:layout_alignParentBottom="true"
                     android:paddingBottom="5dp"
                     android:paddingTop="5dp"
-                    android:background="#90000000">
+                    android:background="#000000">
 
                     <ImageView
                         android:layout_width="0dp"
@@ -371,7 +371,7 @@
                     android:layout_alignParentBottom="true"
                     android:paddingBottom="5dp"
                     android:paddingTop="5dp"
-                    android:background="#90000000">
+                    android:background="#000000">
 
                     <ImageView
                         android:layout_width="0dp"
