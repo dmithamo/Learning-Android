@@ -22,14 +22,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        displayChelseaScore(chelseaScore);
-        displayUnitedScore(unitedScore);
-
-        displayChelseaReds(chelseaReds);
-        displayUnitedReds(unitedReds);
-
-        displayChelseaYellows(chelseaYellows);
-        displayUnitedYellows(unitedYellows);
+        resetGame(null);
     }
 
     //    To reset the game, returning scores to zero
@@ -65,13 +58,17 @@ public class MainActivity extends AppCompatActivity {
 
     //    When chelsea reds, add red
     public void addChelseaReds(View view) {
-        chelseaReds += 1;
+        if(chelseaReds < 5){
+            chelseaReds += 1;
+        }
         displayChelseaReds(chelseaReds);
     }
 
     //    When united reds, add red
     public void addUnitedReds(View view) {
-        unitedReds += 1;
+        if(unitedReds < 5){
+            unitedReds += 1;
+        }
         displayUnitedReds(unitedReds);
     }
 
