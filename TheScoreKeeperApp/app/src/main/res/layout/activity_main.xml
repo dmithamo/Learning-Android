@@ -167,6 +167,7 @@
         android:orientation="horizontal">
 
         <Button
+            android:onClick="addChelseaGoals"
             android:id="@+id/chelsea_goal_button"
             android:layout_width="120dp"
             android:layout_height="40dp"
@@ -176,6 +177,7 @@
             android:textColor="#000" />
 
         <Button
+            android:onClick="addUnitedGoals"
             android:id="@+id/united_goal_button"
             android:layout_width="120dp"
             android:layout_height="40dp"
@@ -196,6 +198,7 @@
         android:orientation="horizontal">
 
         <Button
+            android:onClick="addChelseaReds"
             android:id="@+id/chelsea_red"
             android:layout_width="120dp"
             android:layout_height="40dp"
@@ -205,6 +208,7 @@
             android:textColor="#000" />
 
         <Button
+            android:onClick="addUnitedReds"
             android:id="@+id/united_red"
             android:layout_width="120dp"
             android:layout_height="40dp"
@@ -226,6 +230,7 @@
         android:orientation="horizontal">
 
         <Button
+            android:onClick="addChelseaYellows"
             android:id="@+id/chelsea_yellow"
             android:layout_width="120dp"
             android:layout_height="40dp"
@@ -235,6 +240,7 @@
             android:textColor="#000" />
 
         <Button
+            android:onClick="addUnitedYellows"
             android:id="@+id/united_yellow"
             android:layout_width="120dp"
             android:layout_height="40dp"
@@ -254,6 +260,7 @@
         android:gravity="center_horizontal">
 
         <Button
+            android:onClick="resetGame"
             android:id="@+id/reset_button"
             android:layout_width="100dp"
             android:layout_height="40dp"

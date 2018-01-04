@@ -2,6 +2,7 @@ package com.example.dennis.scores;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
@@ -32,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //    To reset the game, returning scores to zero
-    public void resetGame() {
+    public void resetGame(View view) {
         chelseaScore = 0;
         unitedScore = 0;
         chelseaReds = 0;
@@ -51,38 +52,38 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //    When chelsea scores, add goal
-    public void addChelseaGoals() {
+    public void addChelseaGoals(View view) {
         chelseaScore += 1;
         displayChelseaScore(chelseaScore);
     }
 
     //    When United scores, add goal
-    public void addUnitedGoals() {
+    public void addUnitedGoals(View view) {
         unitedScore += 1;
         displayUnitedScore(unitedScore);
     }
 
     //    When chelsea reds, add red
-    public void addChelseaReds() {
+    public void addChelseaReds(View view) {
         chelseaReds += 1;
         displayChelseaReds(chelseaReds);
     }
 
     //    When united reds, add red
-    public void addUnitedReds() {
+    public void addUnitedReds(View view) {
         unitedReds += 1;
         displayUnitedReds(unitedReds);
     }
 
 
     //    When chelsea Yellows, add yellow
-    public void addChelseaYellows() {
+    public void addChelseaYellows(View view) {
         chelseaYellows += 1;
         displayChelseaYellows(chelseaYellows);
     }
 
     //    When United Yellows, add yellow
-    public void addUnitedYellows() {
+    public void addUnitedYellows(View view) {
         unitedYellows += 1;
         displayUnitedYellows(unitedYellows);
     }
