@@ -29,9 +29,9 @@
             android:layout_gravity="center"
             android:layout_weight="2"
             android:background="#38003c"
-            android:fontFamily="sans-serif-medium"
+            android:fontFamily="sans-serif-light"
             android:gravity="center"
-            android:text="5"
+            android:text="4"
             android:textColor="#fff"
             android:textSize="30sp" />
 
@@ -49,7 +49,7 @@
             android:layout_gravity="center"
             android:layout_weight="2"
             android:background="#38003c"
-            android:fontFamily="sans-serif-medium"
+            android:fontFamily="sans-serif-light"
             android:gravity="center"
             android:text="4"
             android:textColor="#fff"
