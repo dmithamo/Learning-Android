@@ -31,10 +31,9 @@
             android:background="#38003c"
             android:fontFamily="sans-serif-medium"
             android:gravity="center"
-            android:padding="5dp"
             android:text="5"
             android:textColor="#fff"
-            android:textSize="20sp" />
+            android:textSize="30sp" />
 
         <ImageView
             android:layout_width="40dp"
@@ -52,10 +51,9 @@
             android:background="#38003c"
             android:fontFamily="sans-serif-medium"
             android:gravity="center"
-            android:padding="5dp"
             android:text="4"
             android:textColor="#fff"
-            android:textSize="20sp" />
+            android:textSize="30sp" />
 
         <ImageView
             android:layout_width="80dp"
