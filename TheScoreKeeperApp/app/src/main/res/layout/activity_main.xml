@@ -3,14 +3,14 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     android:background="@drawable/bg_green"
     tools:context="com.example.dennis.scores.MainActivity">
 
-
     <RelativeLayout
+        android:id="@+id/main"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="match_parent">
 
         <LinearLayout
             android:id="@+id/score_board"
@@ -159,11 +159,12 @@
         </LinearLayout>
 
         <LinearLayout
-            android:id="@+id/buttons"
+            android:id="@+id/kenya"
             android:layout_marginTop="24dp"
             android:layout_below="@id/yellow_card"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="90dp"
             android:orientation="horizontal">
 
             <LinearLayout
@@ -212,7 +213,7 @@
                 android:gravity="center">
 
                 <Button
-                    android:onClick="addChelseaGoals"
+                    android:onClick="addUnitedGoals"
                     android:id="@+id/united_goal_button"
                     android:layout_width="120dp"
                     android:layout_height="40dp"
@@ -222,7 +223,7 @@
                     android:textColor="#000"/>
 
                 <Button
-                    android:onClick="addChelseaReds"
+                    android:onClick="addUnitedReds"
                     android:id="@+id/united_red"
                     android:layout_marginTop="8dp"
                     android:layout_marginBottom="8dp"
@@ -233,7 +234,7 @@
                     android:textColor="#000" />
 
                 <Button
-                    android:onClick="addChelseaYellows"
+                    android:onClick="addUnitedYellows"
                     android:id="@+id/united_yellow"
                     android:layout_width="120dp"
                     android:layout_height="40dp"
@@ -249,10 +250,10 @@
 
         <LinearLayout
             android:id="@+id/footer"
-            android:layout_below="@id/buttons"
-            android:layout_marginTop="430dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:gravity="bottom"
+            android:layout_below="@+id/kenya"
             android:orientation="vertical">
 
             <Button
