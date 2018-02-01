@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/HelloAndroid/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/Smaller Projects/HelloAndroid/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/MyFirstApplication/app/src/androidTest/androidTest1.iml" filepath="$PROJECT_DIR$/Smaller Projects/MyFirstApplication/app/src/androidTest/androidTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/PracticeSet/app/src/androidTest/androidTest2.iml" filepath="$PROJECT_DIR$/Smaller Projects/PracticeSet/app/src/androidTest/androidTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheScoreKeeperApp/app/src/androidTest/androidTest3.iml" filepath="$PROJECT_DIR$/TheScoreKeeperApp/app/src/androidTest/androidTest3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/CourtCounter/app/src/androidTest/androidTest4.iml" filepath="$PROJECT_DIR$/Smaller Projects/CourtCounter/app/src/androidTest/androidTest4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mYellowPages/app/src/androidTest/androidTest5.iml" filepath="$PROJECT_DIR$/mYellowPages/app/src/androidTest/androidTest5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/JustJava/app/src/androidTest/androidTest6.iml" filepath="$PROJECT_DIR$/Smaller Projects/JustJava/app/src/androidTest/androidTest6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/AGreetingCardApp/app/src/androidTest/androidTest7.iml" filepath="$PROJECT_DIR$/Smaller Projects/AGreetingCardApp/app/src/androidTest/androidTest7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/JustJava/app/src/main/main.iml" filepath="$PROJECT_DIR$/Smaller Projects/JustJava/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/MyFirstApplication/app/src/main/main1.iml" filepath="$PROJECT_DIR$/Smaller Projects/MyFirstApplication/app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheScoreKeeperApp/app/src/main/main2.iml" filepath="$PROJECT_DIR$/TheScoreKeeperApp/app/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/HelloAndroid/app/src/main/main3.iml" filepath="$PROJECT_DIR$/Smaller Projects/HelloAndroid/app/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/AGreetingCardApp/app/src/main/main4.iml" filepath="$PROJECT_DIR$/Smaller Projects/AGreetingCardApp/app/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/CourtCounter/app/src/main/main5.iml" filepath="$PROJECT_DIR$/Smaller Projects/CourtCounter/app/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mYellowPages/app/src/main/main6.iml" filepath="$PROJECT_DIR$/mYellowPages/app/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/PracticeSet/app/src/main/main7.iml" filepath="$PROJECT_DIR$/Smaller Projects/PracticeSet/app/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/MyFirstApplication/app/src/test/test.iml" filepath="$PROJECT_DIR$/Smaller Projects/MyFirstApplication/app/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/HelloAndroid/app/src/test/test1.iml" filepath="$PROJECT_DIR$/Smaller Projects/HelloAndroid/app/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/AGreetingCardApp/app/src/test/test2.iml" filepath="$PROJECT_DIR$/Smaller Projects/AGreetingCardApp/app/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/CourtCounter/app/src/test/test3.iml" filepath="$PROJECT_DIR$/Smaller Projects/CourtCounter/app/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/PracticeSet/app/src/test/test4.iml" filepath="$PROJECT_DIR$/Smaller Projects/PracticeSet/app/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mYellowPages/app/src/test/test5.iml" filepath="$PROJECT_DIR$/mYellowPages/app/src/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smaller Projects/JustJava/app/src/test/test6.iml" filepath="$PROJECT_DIR$/Smaller Projects/JustJava/app/src/test/test6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheScoreKeeperApp/app/src/test/test7.iml" filepath="$PROJECT_DIR$/TheScoreKeeperApp/app/src/test/test7.iml" />
+    </modules>
+  </component>
+</project>
